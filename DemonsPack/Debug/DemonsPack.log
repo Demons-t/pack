@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  pch.cpp
+  DemonsPack.cpp
+  DemonsPackDlg.cpp
+  Options.cpp
+  Pack.cpp
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(64,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(91,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(105,50): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(106,45): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(110,80): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(120,34): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(126,58): warning C4244: “参数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(130,77): warning C4244: “参数”: 从“unsigned __int64”转换到“const rsize_t”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(130,58): warning C4244: “参数”: 从“unsigned __int64”转换到“const rsize_t”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(140,76): warning C4244: “参数”: 从“unsigned __int64”转换到“const rsize_t”，可能丢失数据
+D:\项目\DemonsPack\DemonsPack\Pack.cpp(140,57): warning C4244: “参数”: 从“unsigned __int64”转换到“const rsize_t”，可能丢失数据
+  Pe.cpp
+  正在生成代码...
+D:\项目\DemonsPack\DemonsPack\Pe.cpp(41): warning C4715: “Pe::OpenPeFile”: 不是所有的控件路径都返回值
+  DemonsPack.vcxproj -> D:\项目\DemonsPack\pack\DemonsPack.exe
